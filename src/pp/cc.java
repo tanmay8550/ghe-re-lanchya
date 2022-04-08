@@ -6,6 +6,7 @@ public class cc {
 	{
 		// TODO Auto-generated method stub
           System.out.println("double ghe lanchya");
+          System.out.println("triple ghe re lanchya");
 	}
 
 }
